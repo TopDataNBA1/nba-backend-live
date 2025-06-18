@@ -1,0 +1,23 @@
+[
+  {
+    "orden": 1,
+    "nombre": "LeBron James",
+    "valor_c": 8289,
+    "valor_d": 0,
+    "valor_e": 8289
+  },
+  {
+    "orden": 2,
+    "nombre": "Michael Jordan",
+    "valor_c": 5987,
+    "valor_d": 0,
+    "valor_e": 5987
+  },
+  {
+    "orden": 3,
+    "nombre": "Kareem Abdul-Jabbar",
+    "valor_c": 5762,
+    "valor_d": 0,
+    "valor_e": 5762
+  }
+]
